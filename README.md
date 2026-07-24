@@ -233,7 +233,7 @@ Build automated chatbots with flows, keyword replies, and AI-powered responses.
 
 ## Documentation
 
-For detailed documentation, visit [https://shridarpatil.github.io/frappe_whatsapp/](https://shridarpatil.github.io/frappe_whatsapp/)
+For detailed documentation, visit [https://kashyapram58-netizen.github.io/frappe_whatsapp/](https://shridarpatil.github.io/frappe_whatsapp/)
 
 ## Contributing
 
