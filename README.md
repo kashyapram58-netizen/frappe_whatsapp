@@ -39,7 +39,7 @@ WhatsApp integration for Frappe/ERPNext. Use Meta's WhatsApp Cloud API directly 
 
 ### Step 1: Get the app
 ```bash
-bench get-app https://github.com/shridarpatil/frappe_whatsapp
+bench get-app https://github.com/kashyapram58-netizen/frappe_whatsapp
 ```
 
 ### Step 2: Install on your site
