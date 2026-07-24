@@ -1,4 +1,4 @@
-# Copyright (c) 2022, Shridhar Patil and Contributors
+# Copyright (c) 2022, Ram Kumar and Contributors
 # See license.txt
 
 import frappe

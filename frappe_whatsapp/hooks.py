@@ -2,7 +2,7 @@ from . import __version__ as app_version
 
 app_name = "frappe_whatsapp"
 app_title = "Frappe Whatsapp"
-app_publisher = "Shridhar Patil"
+app_publisher = "Ram Kumar"
 app_description = "WhatsApp integration for frappe"
 app_email = "shridhar.p@zerodha.com"
 app_license = "MIT"

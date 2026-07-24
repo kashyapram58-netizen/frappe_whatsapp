@@ -1,6 +1,6 @@
 """Create whatsapp template."""
 
-# Copyright (c) 2022, Shridhar Patil and contributors
+# Copyright (c) 2022, Ram Kumar and contributors
 # For license information, please see license.txt
 import json
 import frappe
