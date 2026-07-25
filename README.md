@@ -9,7 +9,7 @@
 
 # Frappe WhatsApp
 
-[Documentation](https://shridarpatil.github.io/frappe_whatsapp/)
+[Documentation](https://kashyapram58-netizen.github.io/frappe_whatsapp/)
 
 WhatsApp integration for Frappe/ERPNext. Use Meta's WhatsApp Cloud API directly without any third-party integration.
 
@@ -233,7 +233,7 @@ Build automated chatbots with flows, keyword replies, and AI-powered responses.
 
 ## Documentation
 
-For detailed documentation, visit [https://kashyapram58-netizen.github.io/frappe_whatsapp/](https://shridarpatil.github.io/frappe_whatsapp/)
+For detailed documentation, visit [https://kashyapram58-netizen.github.io/frappe_whatsapp/](https://kashyapram58-netizen.github.io./frappe_whatsapp/)
 
 ## Contributing
 
